@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试复盘教练"
+  short_description: "结合私有项目档案复盘面试、优化答案并生成变更回执"
+  default_prompt: "使用 $review-job-interviews 根据简历、岗位描述、面试转写和私有项目档案完成面试复盘。"
